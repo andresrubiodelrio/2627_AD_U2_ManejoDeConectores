@@ -6,7 +6,7 @@ import java.sql.SQLException;
 
 public class MySQL {
 
-    private static final String HOST = "54.163.209.29:3306";
+    private static final String HOST = "44.223.60.143:3306";
     private static final String BBDD = "empresa";
     private static final String USUARIO = "root";
     private static final String CONTRASENA = "root";
